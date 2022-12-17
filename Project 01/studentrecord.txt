@@ -1,0 +1,2 @@
+1234567Smith, Donald                           10000
+1234578Johnson, Herman                         19000
